@@ -1,0 +1,97 @@
+site_name: Piano Jazz Wiki
+site_description: A personal jazz piano knowledge base
+docs_dir: wiki
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.path
+    - search.highlight
+    - search.suggest
+    - content.tooltips
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+
+nav:
+  - Overview: overview.md
+  - Theory:
+      - Pillars:
+          - Scales: theory/pillars/Pillar - Scales.md
+          - Chords: theory/pillars/Pillar - Chords.md
+          - Voicings: theory/pillars/Pillar - Voicings.md
+          - Lead Sheets: theory/pillars/Pillar - Lead Sheets.md
+          - Improvisation: theory/pillars/Pillar - Improvisation.md
+      - Notions:
+          - Cadence: theory/notions/Cadence.md
+          - Circle of Fifths: theory/notions/Circle of Fifths.md
+          - Intervals: theory/notions/Intervals.md
+          - Modes: theory/notions/Modes.md
+          - Shell Voicings: theory/notions/Shell Voicings.md
+      - Keys:
+          - C Major & Minor: theory/keys/C Major & Minor.md
+          - D Major & Minor: theory/keys/D Major & Minor.md
+          - E Major & Minor: theory/keys/E Major & Minor.md
+          - F Major & Minor: theory/keys/F Major & Minor.md
+          - G Major & Minor: theory/keys/G Major & Minor.md
+          - A Major & Minor: theory/keys/A Major & Minor.md
+          - B Major & Minor: theory/keys/B Major & Minor.md
+          - A♯-B♭ Major & Minor: "theory/keys/A♯-B♭ Major & Minor.md"
+          - C♯-D♭ Major & Minor: "theory/keys/C♯-D♭ Major & Minor.md"
+          - D♯-E♭ Major & Minor: "theory/keys/D♯-E♭ Major & Minor.md"
+          - F♯-G♭ Major & Minor: "theory/keys/F♯-G♭ Major & Minor.md"
+          - G♯-A♭ Major & Minor: "theory/keys/G♯-A♭ Major & Minor.md"
+  - Concepts:
+      - Chord Symbols: concepts/Chord Symbols.md
+      - Altered Dominants: concepts/Altered Dominants.md
+      - Chord Voicing Principles: concepts/Chord Voicing Principles.md
+      - Open Voicings: concepts/Open Voicings.md
+      - Rootless Voicings: concepts/Rootless Voicings.md
+      - Kenny Barron Voicing: concepts/Kenny Barron Voicing.md
+      - Fourth Voicings: concepts/Fourth Voicings.md
+      - Melody-Matching: concepts/Melody-Matching.md
+  - Practice:
+      - Overview: practice/Jazz Piano Practice Plan - Overview.md
+      - Beginner:
+          - Plan: practice/beginner/Beginner plan.md
+          - Chords: practice/beginner/Beginner chords/Beginner chords exercises.md
+          - Scales: practice/beginner/Beginner scales/Beginner scales exercises.md
+          - Voicings: practice/beginner/Beginner voicings/Beginner voicings exercises.md
+          - Lead Sheets: practice/beginner/Beginner lead sheets/Beginner lead sheets exercises.md
+          - Improvisation: practice/beginner/Beginner improvisation/Beginner improvisation exercises.md
+      - Intermediate:
+          - Plan: practice/intermediate/Intermediate plan.md
+  - Artists:
+      - Julian Bradley: artists/Julian Bradley.md
+  - Sources:
+      - The Chord Voicing Guide: sources/The Chord Voicing Guide - Julian Bradley.md
+      - The Chord Symbol Guide: sources/The Chord Symbol Guide - Julian Bradley.md
