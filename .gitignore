@@ -9,3 +9,5 @@ Rubbish/
 
 # Obsidian workspace state (personal, non-portable)
 .obsidian/
+.megaignore
+.claude
