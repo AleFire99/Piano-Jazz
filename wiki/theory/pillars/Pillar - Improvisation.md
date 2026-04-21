@@ -42,15 +42,64 @@ Improvisation in jazz is the art of spontaneously creating melodies and solos ov
 ### **1. Playing on the Chord Changes**
    - When improvising, focus on the chord tones and the changes happening in the song. You can approach a chord change by highlighting the chord tones or the root of the new chord to make the transition smoother.
 
-### **2. Using Scales and Modes**
+### **2. Scale choice per chord function**
+
+The most important map for improvisation — which scale to play over which chord:
+
+| Chord function | Scale choices |
+|----------------|--------------|
+| ii (minor 7) | Dorian mode, bebop scale |
+| V7 (dominant 7) | Mixolydian (major), diminished, altered scale |
+| I (major 7) | Ionian (major scale), Dorian |
+| ii° (half-diminished) | Locrian → altered → resolve to Dorian |
+
+**Mnemonic for V7 altered:** G altered = start on G, but use the A♭ melodic minor scale (A♭ B♭ B D♭ E♭ F G). All alterations are included automatically.
+
+See [[Modes]] for scale formulas and [[Altered Dominants]] for the altered scale.
+
+### **3. Bebop scale**
+
+A major or dominant scale with **one added chromatic passing note** so that chord tones fall on strong beats (downbeats).
+
+**G dominant bebop:** G – A – B – C – D – E – F – F♯ (8 notes)
+
+The added F♯ between F and G ensures that G, B, D, F (the chord tones of G7) all land on beats 1, 2, 3, 4 when you start on G and play eighth notes. This "alignment" is the whole point of the bebop scale.
+
+### **4. Using Scales and Modes**
    - Each chord in a progression has a corresponding scale or mode. Start by learning the common modes used in jazz, like the major scale (Ionian), the minor scale (Aeolian), and the Mixolydian scale for dominant chords.
    - For example, when improvising over a Cmaj7 chord, you could use the C major scale (C Ionian), and over a G7 chord, you could use the G Mixolydian scale.
 
-### **3. Embellishing with Passing Tones**
+### **5. Approach Notes**
+
+See [[Approach Notes]] for the full reference. Two core techniques:
+
+- **Half-step below**: play the note one half-step below your target chord tone, then step up. Most common approach in jazz.
+- **Chromatic enclosure**: surround the target from above *and* below before landing (e.g., D♭ → B → C).
+
+Always target **guide tones** (3rd and 7th of the chord) for maximum harmonic impact.
+
+### **6. Sequences**
+
+Take a short melodic shape (2–4 notes) and repeat it at successive pitch levels up or down. Creates momentum and logic in improvised lines without requiring you to invent new material.
+
+```
+Shape: C–D–E (ascending 3 notes)
+Sequence: C–D–E → D–E–F → E–F–G …
+```
+
+### **7. IN/OUT playing**
+
+Start a phrase IN the key (diatonic notes), briefly move OUTSIDE (altered or diminished material), then resolve back IN. Creates deliberate tension and release:
+
+1. **IN**: establish the key/chord clearly
+2. **OUT**: play outside notes (altered scale, tritone away)
+3. **IN**: resolve back to a strong chord tone
+
+### **8. Embellishing with Passing Tones**
    - Passing tones (or passing notes) are notes that connect chord tones. These notes can help you create smoother, more connected lines. Use passing tones strategically between chord tones to add movement to your improvisation.
 
-### **4. Using Arpeggios**
-   - Arpeggios are the broken versions of the chords, and they can be a great tool for improvisation. Practice improvising using the arpeggios of the chords you’re playing over. For example, if you're playing over a Cmaj7 chord, you can use the Cmaj7 arpeggio (C, E, G, B) to create interesting solo lines.
+### **9. Using Arpeggios**
+   - Arpeggios are the broken versions of the chords, and they can be a great tool for improvisation. Practice improvising using the arpeggios of the chords you’re playing over. For example, if you’re playing over a Cmaj7 chord, you can use the Cmaj7 arpeggio (C, E, G, B) to create interesting solo lines.
 
 ---
 

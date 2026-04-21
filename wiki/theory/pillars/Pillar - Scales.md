@@ -61,6 +61,28 @@ The specific exercises for scales in each key are detailed in the following file
 
 ---
 
+## **Blues Scales**
+
+Two 6-note scales built from pentatonics — the core vocabulary for blues and jazz improvisation. See [[Blues Scale]] for full detail and all 12 keys.
+
+| Scale | Formula | C example |
+|-------|---------|-----------|
+| Minor blues | 1 ♭3 4 ♭5 5 ♭7 | C E♭ F G♭ G B♭ |
+| Major blues | 1 2 ♭3 3 5 6 | C D E♭ E G A |
+
+- **Minor blues** = minor pentatonic + ♭5 (the "blue note")
+- **Major blues** = major pentatonic + ♭3 (minor/major 3rd clash = the blues feeling)
+
+Both can be used interchangeably over a [[12-Bar Blues]] for expressive color.
+
+---
+
+## **Bebop Scale**
+
+A dominant or major scale with **one added chromatic passing tone** so that chord tones land on strong beats. See [[Pillar - Improvisation]] for application. Full reference coming in a dedicated page.
+
+---
+
 ## **Connecting Scales and Cadences**
 
 As you progress through different scales, understanding how they interact with cadences is crucial for creating musical phrases that feel complete. Cadences are chord progressions that signal the end of a phrase, section, or piece of music. They help define the structure and resolution within your playing. 

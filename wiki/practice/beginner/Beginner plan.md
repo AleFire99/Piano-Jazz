@@ -72,13 +72,35 @@ Each month, you'll focus on one major key and its relative minor. This will help
 
 ---
 
-### **4. Progress Tracking**
+### **4. Blues Integration (add when ready)**
+
+Once you're comfortable with basic scales and chords, begin incorporating blues material:
+
+#### Blues checklist
+- [ ] Learn the [[12-Bar Blues]] form in C (I7 / IV7 / V7)
+- [ ] Play the C minor blues scale (C E♭ F G♭ G B♭) hands separately
+- [ ] Play the C major blues scale (C D E♭ E G A) hands separately
+- [ ] Practice LH Pattern 3 (root–5th–6th swing cell) over the 12-bar form
+- [ ] Add walking bass (LH Pattern 6) connecting chord tones
+
+See [[Blues Scale]] and [[12-Bar Blues]] for full reference.
+
+#### Lick vocabulary checklist
+- [ ] Practice one half-step-below approach into a chord tone (see [[Approach Notes]])
+- [ ] Practice a chromatic enclosure into the 3rd of Cmaj7
+- [ ] Take a 3-note melodic shape and sequence it up by step
+- [ ] Play a simple IN/OUT phrase: 2 bars in the key, 1 bar outside (altered), resolve
+
+---
+
+### **5. Progress Tracking**
 
 Keep track of your progress each week:
 
 - Are you able to play your scales at a steady tempo?
 - Can you play major and minor triads in all keys?
 - Are you comfortable reading lead sheets with basic chord symbols?
+- Can you play through a 12-bar blues form with a left-hand pattern?
 
 ---
 

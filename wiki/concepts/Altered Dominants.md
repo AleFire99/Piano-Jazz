@@ -34,10 +34,20 @@ This scale contains all possible alterations simultaneously (b9, #9, #11, b13), 
 
 ---
 
+## The G altered scale — practical mnemonic
+
+To play the altered scale on any dominant, **use the melodic minor scale starting one half-step above**:
+
+> G altered = A♭ melodic minor (start on A♭: A♭ – B♭ – B – D♭ – E♭ – F – G)
+
+This works for any dominant chord: V7alt → start melodic minor on the note a half-step above the root.
+
+---
+
 ## Where altered dominants appear
 
 - On the **V chord** before resolution to a I chord (especially in minor ii-V-I)
-- As **tritone substitutions** — the altered dominant of a chord can be substituted with the dominant a tritone away
+- As **tritone substitutions** — see [[Tritone Substitution]] for how the two strategies connect
 - At **phrase endings** where extra harmonic tension is desired
 
 ### Minor ii-V-I example (in C minor):
@@ -60,3 +70,4 @@ Learn the voicings for altered V7 chords alongside standard V7 voicings. The [[R
 - [[Chord Symbols]] — full reference for all chord symbol types
 - [[Rootless Voicings]] — how to voice altered dominants
 - [[Pillar - Chords]] — chord construction foundation
+- [[Tritone Substitution]] — related reharmonization using the tritone relationship

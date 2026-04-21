@@ -26,8 +26,10 @@ Jazz pianist and educator. Founder of **Jazz Tutorial** (jazztutorial.com). Know
 |--------|-------|
 | [[The Chord Voicing Guide - Julian Bradley]] | 5 types of jazz chord voicing, Melody-Matching |
 | [[The Chord Symbol Guide - Julian Bradley]] | Complete chord symbol reference, altered dominants, slash chords |
-
-*More sources from `raw/Julian Bradley/` not yet ingested.*
+| [[23 Sweet Chord Progressions & Licks - Julian Bradley]] | Tritone substitution, glide progressions, block chords, Never-Ending Progression |
+| [[29 Sweet Jazz Piano Licks - Julian Bradley]] | Approach notes, chromatic enclosure, scale choice map, sequences, IN/OUT |
+| [[Julian Bradley Instagram Riffs 2021]] | Bebop scale, bossa nova bass line, modal interchange, ripple effect |
+| [[Have Yourself A Merry Little Christmas - Julian Bradley]] | Applied standard arrangement; synthesis of all voicing/approach concepts |
 
 ---
 
@@ -42,6 +44,13 @@ Jazz pianist and educator. Founder of **Jazz Tutorial** (jazztutorial.com). Know
 - [[Melody-Matching]] — technique for choosing voicings on lead sheets
 - [[Chord Symbols]] — full jazz chord symbol reference
 - [[Altered Dominants]] — b9, #9, #11, b13, C7 altered
+- [[Tritone Substitution]] — replace V7 with dominant a tritone away
+- [[Approach Notes]] — half-step below and chromatic enclosure
+- Bebop scale — dominant scale + one chromatic passing tone
+- Bossa nova bass line — root + 5th in syncopated LH pattern
+- Modal interchange — borrowing chords from parallel modes
+- Sequences — repeating melodic cell at successive pitch levels
+- IN/OUT playing — outside lines resolved back into the key
 
 ---
 
